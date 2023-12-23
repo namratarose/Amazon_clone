@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+    border:border-box;
+    font-family: arial;
+}
+.while{
+    border:2px solid white;
+}
+.border{
+    border:1.5px solid transparent;
+}
+.border:hover{
+    border:1.5px solid white;
+    border-radius: 2px;
+}
